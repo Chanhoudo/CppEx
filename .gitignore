@@ -1,0 +1,6 @@
+# Visual Studio 관련 파일들
+.vs/
+*.VC.db
+*.pch
+*.ipch
+*.zip
